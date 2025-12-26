@@ -1,0 +1,33 @@
+{
+  "platform": "Email",
+  "templates": [
+    {
+      "type": "Welcome Email",
+      "subject": "Welcome! Here's your {Free Resource}",
+      "template": "Hey {First Name},\n\nThanks for downloading {Resource Name}!\n\nI'm {Your Name}, and I help {target audience} {achieve goal}.\n\nInside your guide, you'll find:\n✓ {Benefit 1}\n✓ {Benefit 2}\n✓ {Benefit 3}\n\n[DOWNLOAD BUTTON]\n\nOver the next few days, I'll share more insights on {topic}.\n\nIn the meantime, if you have questions, just hit reply!\n\nTo your success,\n{Your Name}\n\nP.S. {Soft CTA with tracking link}",
+      "sequence_position": 1,
+      "send_timing": "Immediately"
+    },
+    {
+      "type": "Value Email",
+      "subject": "The #{Number} mistake I see with {Topic}",
+      "template": "Hi {First Name},\n\nQuick question: Are you making this common mistake with {topic}?\n\n❌ {Common mistake}\n\nHere's why this is costing you {negative outcome}:\n\n{2-3 paragraphs explaining}\n\nThe good news?\n\nIt's easy to fix with {solution}.\n\nHere's how:\n\n{3 steps}\n\nWant help implementing this? {CTA with tracking link}\n\nBest,\n{Your Name}",
+      "sequence_position": 2,
+      "send_timing": "Day 2"
+    },
+    {
+      "type": "Case Study Email",
+      "subject": "How {Client} achieved {Result} in {Timeframe}",
+      "template": "{First Name},\n\nI want to share a quick success story.\n\n{Client name/type} was struggling with {pain point}.\n\nSound familiar?\n\nHere's what we did:\n\n→ {Step 1}\n→ {Step 2}\n→ {Step 3}\n\nThe results?\n\n• {Metric 1}\n• {Metric 2}\n• {Metric 3}\n\nYou can achieve similar results.\n\n{Strong CTA with tracking link}\n\nBest,\n{Your Name}\n\nP.S. {Additional benefit or urgency}",
+      "sequence_position": 3,
+      "send_timing": "Day 4"
+    },
+    {
+      "type": "Strong CTA Email",
+      "subject": "Ready to {Achieve Desired Outcome}?",
+      "template": "{First Name},\n\nOver the past few days, I've shared:\n\n✓ {Value point 1}\n✓ {Value point 2}\n✓ {Value point 3}\n\nNow it's decision time.\n\nYou can:\n\n1. Keep struggling with {pain point}\n2. Take action and {achieve result}\n\nIf you're ready for option 2...\n\n{STRONG CTA BUTTON}\n\n{Benefit 1}\n{Benefit 2}\n{Benefit 3}\n\nThis is your moment.\n\nLet's make it happen.\n\n{Your Name}\n\nP.S. {Urgency or scarcity element}",
+      "sequence_position": 4,
+      "send_timing": "Day 6"
+    }
+  ]
+}
