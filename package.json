@@ -5,15 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "live-server --port=3000",
-    "build": "echo \"no build step\"",
-    "start": "live-server --port=3000"
-  },
-  "dependencies": {
-    "file-saver": "^2.0.5",
-    "html2canvas": "^1.4.1",
-    "jspdf": "^2.5.1",
-    "jspdf-autotable": "^3.7.1",
-    "jszip": "^3.10.1"
+    "build": "echo \"no build step\""
   },
   "devDependencies": {
     "live-server": "^1.2.2"
