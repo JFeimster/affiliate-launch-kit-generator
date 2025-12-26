@@ -1,0 +1,76 @@
+{
+  "niche": "Real Estate Investors",
+  "audience_range": "10-100k",
+  "days": [
+    {
+      "day": 1,
+      "title": "Content + Lead Magnet Setup",
+      "tasks": [
+        "Create downloadable guide for real estate financing",
+        "Set up landing page with email capture",
+        "Configure tracking links and email automation"
+      ],
+      "focus": "Infrastructure"
+    },
+    {
+      "day": 2,
+      "title": "Authority Content Launch",
+      "tasks": [
+        "Publish long-form post on real estate funding strategies",
+        "Create 3 short-form videos for TikTok/Reels",
+        "Share lead magnet across all platforms"
+      ],
+      "focus": "Authority"
+    },
+    {
+      "day": 3,
+      "title": "Paid + Organic Strategy",
+      "tasks": [
+        "Launch small ad campaign ($50) to lead magnet",
+        "Post daily value content on Instagram/LinkedIn",
+        "Engage with real estate investor content"
+      ],
+      "focus": "Reach"
+    },
+    {
+      "day": 4,
+      "title": "Email Nurture Sequence",
+      "tasks": [
+        "Send first email to lead magnet subscribers",
+        "Share case study of successful real estate deal",
+        "Include soft CTA with tracking link"
+      ],
+      "focus": "Nurturing"
+    },
+    {
+      "day": 5,
+      "title": "Community Leadership",
+      "tasks": [
+        "Host live Q&A on funding options",
+        "Share insights in real estate investor groups",
+        "Create poll to engage audience"
+      ],
+      "focus": "Engagement"
+    },
+    {
+      "day": 6,
+      "title": "Scale & Optimize",
+      "tasks": [
+        "Analyze best-performing content and replicate",
+        "Increase ad budget on winning campaigns",
+        "Send email #2 with stronger CTA"
+      ],
+      "focus": "Growth"
+    },
+    {
+      "day": 7,
+      "title": "Performance Review",
+      "tasks": [
+        "Review lead magnet downloads and conversions",
+        "Calculate ROI on ad spend",
+        "Plan content calendar for next 30 days"
+      ],
+      "focus": "Strategy"
+    }
+  ]
+}
