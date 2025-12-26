@@ -1,0 +1,29 @@
+{
+  "platform": "LinkedIn",
+  "templates": [
+    {
+      "type": "Professional Story",
+      "template": "I learned something important about {topic} this week.\n\n{Opening hook - personal anecdote}\n\nHere's what happened:\n\n{3-5 paragraphs telling the story}\n\nThe lesson?\n\n{Key takeaway}\n\nIf you're facing {pain point}, I've found {solution} to be incredibly helpful.\n\nHappy to discuss further - drop a comment or DM me.\n\n#BusinessGrowth #Entrepreneurship #SmallBusiness",
+      "best_for": "Thought leadership",
+      "length": "Medium-long"
+    },
+    {
+      "type": "Data-Driven Post",
+      "template": "📈 {Compelling statistic}\n\nThis number shocked me.\n\nHere's why it matters for {target audience}:\n\n→ {Implication 1}\n→ {Implication 2}\n→ {Implication 3}\n\nThe solution? {Your approach}\n\nI've helped {number} businesses {achieve result}.\n\nWant to learn how? Comment 'INTERESTED' below.\n\n#Data #BusinessStrategy #Growth",
+      "best_for": "Credibility",
+      "length": "Short-medium"
+    },
+    {
+      "type": "List Post",
+      "template": "{Number} lessons I learned about {topic}:\n\n1. {Lesson 1}\n{Brief explanation}\n\n2. {Lesson 2}\n{Brief explanation}\n\n3. {Lesson 3}\n{Brief explanation}\n\n[Continue for remaining points]\n\nBonus: {Additional insight}\n\nWhich one resonates most? Let me know in the comments.\n\n#Leadership #Business #Success",
+      "best_for": "Engagement",
+      "length": "Medium"
+    },
+    {
+      "type": "Case Study",
+      "template": "CASE STUDY: How {Client Type} {Achieved Result}\n\nThe Challenge:\n{Describe problem}\n\nThe Approach:\n{Your solution - 3-4 steps}\n\nThe Results:\n• {Metric 1}\n• {Metric 2}\n• {Metric 3}\n\nKey Takeaway:\n{Main lesson}\n\nIf you're dealing with {pain point}, let's connect.\n\n#CaseStudy #BusinessResults #Success",
+      "best_for": "Conversions",
+      "length": "Medium-long"
+    }
+  ]
+}
