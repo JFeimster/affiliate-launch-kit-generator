@@ -1,0 +1,29 @@
+{
+  "platform": "TikTok",
+  "templates": [
+    {
+      "type": "Hook + Value",
+      "template": "🚨 [Attention-Grabbing Statement] 🚨\n\nHere's what you need to know about {topic}:\n\n✅ {Benefit 1}\n✅ {Benefit 2}\n✅ {Benefit 3}\n\nDrop a 💰 if this helped!\n\n#funding #smallbusiness #entrepreneur",
+      "best_for": "Educational content",
+      "length": "15-30 seconds"
+    },
+    {
+      "type": "Story Format",
+      "template": "POV: You just discovered {solution}\n\nBefore: {Pain point}\nAfter: {Result}\n\nThe secret? {Your affiliate offer}\n\nLink in bio 👆\n\n#success #business #funding",
+      "best_for": "Transformation stories",
+      "length": "30-60 seconds"
+    },
+    {
+      "type": "List Format",
+      "template": "3 things I wish I knew about {topic} before:\n\n1️⃣ {Point 1}\n2️⃣ {Point 2}\n3️⃣ {Point 3}\n\nSave this for later! 📌\n\n#tips #businessgrowth #entrepreneur",
+      "best_for": "Quick tips",
+      "length": "15-30 seconds"
+    },
+    {
+      "type": "Question Hook",
+      "template": "Did you know {surprising fact}?\n\nMost people don't realize {explanation}\n\nThat's why I recommend {solution}\n\nComment 'LINK' for more info\n\n#businesstips #funding #growth",
+      "best_for": "Engagement",
+      "length": "20-40 seconds"
+    }
+  ]
+}
