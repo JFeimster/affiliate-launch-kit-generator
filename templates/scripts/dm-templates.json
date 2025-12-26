@@ -1,0 +1,29 @@
+{
+  "script_type": "Direct Message",
+  "scripts": [
+    {
+      "audience_size": "0-1k",
+      "approach": "Personal & Direct",
+      "template": "Hey {Name}! 👋\n\nI came across your profile and noticed you're in the {industry} space.\n\nI work with {target audience} who are looking to {achieve goal}.\n\nWould you be open to a quick chat about how we could potentially help you {specific benefit}?\n\nNo pressure - just thought it might be valuable!\n\nBest,\n{Your Name}",
+      "notes": "Focus on 1-to-1 relationship building. Personalize heavily."
+    },
+    {
+      "audience_size": "1-10k",
+      "approach": "Value + Connection",
+      "template": "Hi {Name},\n\nLove what you're building with {specific thing about their business}!\n\nI recently helped {similar client type} {achieve result} and thought you might find it interesting.\n\nWould you be open to me sharing a quick resource? It's specifically for {their situation}.\n\nEither way, keep crushing it!\n\n{Your Name}",
+      "notes": "Balance value delivery with connection request. Reference their work."
+    },
+    {
+      "audience_size": "10-100k",
+      "approach": "Authority & Benefit",
+      "template": "Hi {Name},\n\nI've been following your content on {topic} - really valuable insights.\n\nI specialize in helping {target audience} {achieve specific outcome}, and I'd love to explore if there's a fit.\n\nI have a resource on {topic} that's generated {impressive result} for similar businesses.\n\nInterested in taking a look?\n\nBest,\n{Your Name}\n\n[Tracking Link]",
+      "notes": "Lead with credibility. Include social proof. Direct link appropriate."
+    },
+    {
+      "audience_size": "100k+",
+      "approach": "Partnership Angle",
+      "template": "Hi {Name},\n\nImpressed by what you've built with {their business}.\n\nI work with top {industry} leaders on {specific outcome}, including {name drop if possible}.\n\nI see an opportunity for us to collaborate that could benefit your audience.\n\nWould you be open to a brief conversation?\n\nBest,\n{Your Name}\n{Title/Credentials}\n\n[Calendar Link]",
+      "notes": "Position as peer/partner. Focus on mutual benefit. Make it easy to book."
+    }
+  ]
+}
