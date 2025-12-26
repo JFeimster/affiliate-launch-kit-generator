@@ -1,0 +1,29 @@
+{
+  "platform": "Instagram",
+  "templates": [
+    {
+      "type": "Carousel Post",
+      "template": "📊 {Number} Ways to {Achieve Goal}\n\nSlide 1: Hook + Problem\nSlide 2-4: Solutions\nSlide 5: Your affiliate offer\nSlide 6: Call to action\n\nCaption:\n{Expand on each point}\n\nReady to get started? Link in bio 🔗\n\n.\n.\n.\n#businessfunding #entrepreneur #smallbusiness #growth",
+      "best_for": "Educational series",
+      "format": "Carousel"
+    },
+    {
+      "type": "Reel Hook",
+      "template": "When you realize {pain point}...\n\n❌ Don't: {Common mistake}\n✅ Do: {Your solution}\n\nHere's how it works:\n{3 quick steps}\n\nSave this! 💾\n\n#reels #businesstips #funding #entrepreneur",
+      "best_for": "Quick wins",
+      "format": "Reel"
+    },
+    {
+      "type": "Story Series",
+      "template": "Story 1: Poll - 'Are you struggling with {pain point}?'\nStory 2: 'Here's why...'\nStory 3: 'The solution...'\nStory 4: Swipe up CTA\n\nUse stickers: Poll, Question, Link",
+      "best_for": "Engagement & conversions",
+      "format": "Stories"
+    },
+    {
+      "type": "Value Post",
+      "template": "💡 {Bold statement about topic}\n\nHere's the truth:\n• {Reality check 1}\n• {Reality check 2}\n• {Reality check 3}\n\nBut here's the good news...\n\n{Your solution}\n\nTap the link in bio to learn more ⬆️\n\n#success #businessgrowth #funding #entrepreneur",
+      "best_for": "Authority building",
+      "format": "Single post"
+    }
+  ]
+}
