@@ -1,0 +1,76 @@
+{
+  "niche": "E-commerce Sellers",
+  "audience_range": "1-10k",
+  "days": [
+    {
+      "day": 1,
+      "title": "Foundation & Setup",
+      "tasks": [
+        "Set up affiliate tracking links with UTM parameters",
+        "Create dedicated landing page for e-commerce audience",
+        "Join relevant Facebook groups and online communities"
+      ],
+      "focus": "Infrastructure"
+    },
+    {
+      "day": 2,
+      "title": "Content Calendar Creation",
+      "tasks": [
+        "Plan 30 days of e-commerce-focused content",
+        "Research trending topics in online retail",
+        "Schedule posts across Instagram, TikTok, and LinkedIn"
+      ],
+      "focus": "Planning"
+    },
+    {
+      "day": 3,
+      "title": "First Outreach Wave",
+      "tasks": [
+        "Send 20 personalized DMs to e-commerce store owners",
+        "Comment on 10 posts in target communities",
+        "Share value-driven content with tracking link"
+      ],
+      "focus": "Engagement"
+    },
+    {
+      "day": 4,
+      "title": "Community Engagement",
+      "tasks": [
+        "Answer questions in e-commerce groups",
+        "Share success story or case study",
+        "Host Q&A in Stories or live session"
+      ],
+      "focus": "Trust Building"
+    },
+    {
+      "day": 5,
+      "title": "Optimize & Test",
+      "tasks": [
+        "Review tracking link performance",
+        "A/B test different messaging angles",
+        "Refine target audience based on engagement"
+      ],
+      "focus": "Optimization"
+    },
+    {
+      "day": 6,
+      "title": "Scale What Works",
+      "tasks": [
+        "Double down on best-performing content",
+        "Increase outreach volume by 50%",
+        "Partner with complementary service providers"
+      ],
+      "focus": "Growth"
+    },
+    {
+      "day": 7,
+      "title": "Review & Plan Next Phase",
+      "tasks": [
+        "Analyze week 1 metrics and conversions",
+        "Document lessons learned",
+        "Set goals and strategy for week 2"
+      ],
+      "focus": "Analysis"
+    }
+  ]
+}
