@@ -1,0 +1,76 @@
+{
+  "niche": "Coaches & Consultants",
+  "audience_range": "0-1k",
+  "days": [
+    {
+      "day": 1,
+      "title": "DM-First Foundation",
+      "tasks": [
+        "Create list of 50 target coaches in your niche",
+        "Set up affiliate tracking links",
+        "Craft 3 DM templates for cold outreach"
+      ],
+      "focus": "Preparation"
+    },
+    {
+      "day": 2,
+      "title": "Value-Driven Outreach",
+      "tasks": [
+        "Send 15 personalized DMs with free resource",
+        "Engage with coaches' content authentically",
+        "Share helpful tips in coaching communities"
+      ],
+      "focus": "Relationship Building"
+    },
+    {
+      "day": 3,
+      "title": "Content + DM Combo",
+      "tasks": [
+        "Post 1 value-driven piece of content",
+        "Follow up with previous DM conversations",
+        "Send 10 new DM introductions"
+      ],
+      "focus": "Momentum"
+    },
+    {
+      "day": 4,
+      "title": "Community Presence",
+      "tasks": [
+        "Join 3 new coaching-focused groups",
+        "Provide free advice to 5 questions",
+        "Share tracking link when contextually relevant"
+      ],
+      "focus": "Visibility"
+    },
+    {
+      "day": 5,
+      "title": "Follow-Up & Nurture",
+      "tasks": [
+        "Send follow-up messages to engaged prospects",
+        "Share testimonial or success story",
+        "Offer free consultation or resource"
+      ],
+      "focus": "Conversion"
+    },
+    {
+      "day": 6,
+      "title": "Expand Network",
+      "tasks": [
+        "Connect with 20 new coaches on LinkedIn",
+        "Collaborate with peer affiliate on content",
+        "Test different messaging angles"
+      ],
+      "focus": "Scaling"
+    },
+    {
+      "day": 7,
+      "title": "Measure & Adjust",
+      "tasks": [
+        "Review DM response rates and conversions",
+        "Identify top-performing messaging",
+        "Plan week 2 outreach strategy"
+      ],
+      "focus": "Optimization"
+    }
+  ]
+}
