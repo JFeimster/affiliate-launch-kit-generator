@@ -1,0 +1,76 @@
+{
+  "niche": "General Business",
+  "audience_range": "1-10k",
+  "days": [
+    {
+      "day": 1,
+      "title": "Setup & Strategy",
+      "tasks": [
+        "Define target audience and pain points",
+        "Set up affiliate tracking infrastructure",
+        "Research competitor strategies"
+      ],
+      "focus": "Foundation"
+    },
+    {
+      "day": 2,
+      "title": "Content Planning",
+      "tasks": [
+        "Create 7-day content calendar",
+        "Identify key platforms for audience",
+        "Prepare content templates"
+      ],
+      "focus": "Planning"
+    },
+    {
+      "day": 3,
+      "title": "Launch & Engage",
+      "tasks": [
+        "Post first value-driven content",
+        "Initiate conversations with prospects",
+        "Join relevant communities"
+      ],
+      "focus": "Activation"
+    },
+    {
+      "day": 4,
+      "title": "Build Momentum",
+      "tasks": [
+        "Increase posting frequency",
+        "Respond to all comments and messages",
+        "Share tracking link strategically"
+      ],
+      "focus": "Engagement"
+    },
+    {
+      "day": 5,
+      "title": "Test & Learn",
+      "tasks": [
+        "Review performance metrics",
+        "Test different content formats",
+        "Gather feedback from audience"
+      ],
+      "focus": "Optimization"
+    },
+    {
+      "day": 6,
+      "title": "Scale Success",
+      "tasks": [
+        "Amplify best-performing content",
+        "Expand to additional platforms",
+        "Increase outreach volume"
+      ],
+      "focus": "Growth"
+    },
+    {
+      "day": 7,
+      "title": "Analyze & Plan",
+      "tasks": [
+        "Comprehensive week 1 review",
+        "Document wins and challenges",
+        "Set week 2 objectives"
+      ],
+      "focus": "Strategy"
+    }
+  ]
+}
