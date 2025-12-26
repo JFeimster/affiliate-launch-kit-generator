@@ -1,0 +1,54 @@
+{
+  "script_type": "Follow-Up Messages",
+  "scripts": [
+    {
+      "audience_size": "0-1k",
+      "follow_up_stage": "Post-Initial Contact (Day 2)",
+      "template": "Hey {Name}!\n\nJust wanted to follow up from our conversation yesterday.\n\nI mentioned {specific thing you discussed}, and I wanted to share this resource that might help: {link}\n\nNo rush - just wanted to make sure you had it.\n\nLet me know if you have any questions!\n\n{Your Name}",
+      "timing": "48 hours after initial contact",
+      "goal": "Provide value, stay top of mind"
+    },
+    {
+      "audience_size": "0-1k",
+      "follow_up_stage": "Post-Resource Share (Day 5)",
+      "template": "Hi {Name},\n\nHope you got a chance to check out the {resource} I sent over.\n\nI'd love to hear your thoughts - did anything stand out to you?\n\nAlso, I'm curious: what's your timeline for {their goal}?\n\nHappy to jump on a quick call if that's helpful.\n\nBest,\n{Your Name}",
+      "timing": "3 days after sending resource",
+      "goal": "Gauge interest, offer consultation"
+    },
+    {
+      "audience_size": "1-10k",
+      "follow_up_stage": "Post-Call (Same Day)",
+      "template": "Hi {Name},\n\nGreat talking with you today!\n\nAs promised, here's the {resource/link} we discussed:\n{Link with tracking}\n\nKey takeaways from our conversation:\n• {Point 1}\n• {Point 2}\n• {Point 3}\n\nNext steps:\n{Clear action items}\n\nLet me know if you have questions!\n\nBest,\n{Your Name}",
+      "timing": "Within 2 hours of call",
+      "goal": "Recap, provide promised materials, clarify next steps"
+    },
+    {
+      "audience_size": "1-10k",
+      "follow_up_stage": "Gentle Nudge (Day 7)",
+      "template": "Hey {Name},\n\nI know things get busy - just wanted to circle back.\n\nWhen we last spoke, you mentioned {specific pain point}.\n\nI've seen this become a bigger issue when left unaddressed, so I wanted to check in.\n\nStill interested in {solution}? I have some availability this week if you want to discuss.\n\nIf timing's not right, no worries - I totally understand.\n\nBest,\n{Your Name}",
+      "timing": "7 days after last contact",
+      "goal": "Re-engage without being pushy"
+    },
+    {
+      "audience_size": "10-100k+",
+      "follow_up_stage": "Post-Meeting Summary",
+      "template": "Hi {Name},\n\nThank you for the productive discussion today.\n\nTo summarize:\n\nCurrent Situation:\n• {Point 1}\n• {Point 2}\n\nProposed Solution:\n• {Strategy 1}\n• {Strategy 2}\n\nExpected Outcomes:\n• {Metric 1}\n• {Metric 2}\n\nNext Steps:\n1. {Action item + owner + deadline}\n2. {Action item + owner + deadline}\n\nAttached: {Proposal/deck/resources}\n\nI'll follow up on {date} to address any questions.\n\nBest regards,\n{Your Name}\n{Title}",
+      "timing": "Within 4 hours of meeting",
+      "goal": "Professional recap, clear action items, documentation"
+    },
+    {
+      "audience_size": "10-100k+",
+      "follow_up_stage": "Strategic Check-In",
+      "template": "Hi {Name},\n\nFollowing up on our discussion from {date}.\n\nI wanted to share some additional context that might be relevant:\n\n{New data point, case study, or market insight}\n\nThis reinforces the opportunity we discussed around {specific outcome}.\n\nI have {timeframe} available if you'd like to discuss further, or I'm happy to provide additional information via email.\n\nWhat works best for you?\n\nBest regards,\n{Your Name}",
+      "timing": "1 week after initial meeting",
+      "goal": "Add value, demonstrate expertise, advance conversation"
+    },
+    {
+      "audience_size": "All",
+      "follow_up_stage": "Breakup Email (Final)",
+      "template": "Hi {Name},\n\nI've reached out a few times about {topic}, but haven't heard back.\n\nI understand priorities shift, and this might not be the right fit or timing.\n\nBefore I close your file, I wanted to check one last time:\n\nIs this something you'd like to explore, or should I follow up at a later date?\n\nEither way, I appreciate your time.\n\nIf you ever need {what you offer}, you know where to find me!\n\nBest,\n{Your Name}",
+      "timing": "After 3-4 attempts with no response",
+      "goal": "Final attempt, leave door open, maintain relationship"
+    }
+  ]
+}
