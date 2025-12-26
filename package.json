@@ -1,0 +1,29 @@
+{
+  "name": "affiliate-launch-kit-generator",
+  "version": "1.0.0",
+  "description": "Personalized onboarding automation tool for affiliate brokers",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "build": "node build.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "affiliate",
+    "marketing",
+    "launch-kit",
+    "onboarding"
+  ],
+  "author": "Jason Feimster",
+  "license": "MIT",
+  "dependencies": {
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.7.1",
+    "html2canvas": "^1.4.1",
+    "jszip": "^3.10.1",
+    "file-saver": "^2.0.5"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
