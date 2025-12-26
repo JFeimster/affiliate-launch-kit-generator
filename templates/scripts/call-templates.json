@@ -1,0 +1,47 @@
+{
+  "script_type": "Phone Call",
+  "scripts": [
+    {
+      "audience_size": "0-1k",
+      "call_stage": "Opener",
+      "template": "Hi {Name}, this is {Your Name}. How are you?\n\n[Small talk - 30 seconds]\n\nThe reason I'm calling is I noticed you're in the {industry} space, and I work with businesses like yours who are looking to {achieve goal}.\n\nDo you have a couple minutes to chat?",
+      "duration": "1 minute",
+      "key_points": "Warm, conversational, permission-based"
+    },
+    {
+      "audience_size": "0-1k",
+      "call_stage": "Discovery",
+      "template": "Great! So tell me, what's your biggest challenge right now when it comes to {topic}?\n\n[Listen actively]\n\nI see. And how long has this been an issue?\n\n[Listen]\n\nWhat have you tried so far to address it?\n\n[Listen]\n\nIf you could wave a magic wand, what would the ideal solution look like?",
+      "duration": "5-7 minutes",
+      "key_points": "Ask open questions. Listen 70%, talk 30%. Take notes."
+    },
+    {
+      "audience_size": "1-10k",
+      "call_stage": "Opener",
+      "template": "Hi {Name}, {Your Name} here. Thanks for taking my call.\n\nI know you're busy, so I'll be brief. I help {target audience} {achieve specific result}, and based on what I've seen with your business, I think there might be a strong fit.\n\nBefore I share more, can I ask you a few quick questions to make sure this is relevant for you?",
+      "duration": "1 minute",
+      "key_points": "Respect their time. Quick value statement. Permission to continue."
+    },
+    {
+      "audience_size": "1-10k",
+      "call_stage": "Value Presentation",
+      "template": "Based on what you've shared, here's how we typically help businesses in your situation:\n\n1. {Benefit 1} - which addresses your {pain point}\n2. {Benefit 2} - which helps you {outcome}\n3. {Benefit 3} - which means {result}\n\nWe've done this for {number} businesses similar to yours, with results like {specific metric}.\n\nDoes this sound like something that would be valuable?",
+      "duration": "3-5 minutes",
+      "key_points": "Tie back to their specific situation. Use numbers. Ask for micro-commitment."
+    },
+    {
+      "audience_size": "10-100k+",
+      "call_stage": "Opener",
+      "template": "Good {morning/afternoon} {Name}, {Your Name} from {Company}.\n\nI appreciate you making time for this call. I've reviewed your operation and I believe we have an opportunity to {specific outcome} that could significantly impact your {metric}.\n\nI have {timeframe} blocked - does that still work for you?",
+      "duration": "30 seconds",
+      "key_points": "Professional. Outcome-focused. Confirm agenda."
+    },
+    {
+      "audience_size": "10-100k+",
+      "call_stage": "Strategic Discussion",
+      "template": "I've worked with {similar companies} to achieve {results}. Here's what I see as the opportunity for you:\n\n[Present custom analysis]\n\nThe approach I'd recommend has three phases:\n\nPhase 1: {Strategy component 1}\nPhase 2: {Strategy component 2}\nPhase 3: {Strategy component 3}\n\nBased on {their name/company}, I project you could see {specific outcome} within {timeframe}.\n\nWhat questions do you have?",
+      "duration": "10-15 minutes",
+      "key_points": "Data-driven. Custom insights. Clear roadmap. Professional presentation."
+    }
+  ]
+}
